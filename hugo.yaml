@@ -1,0 +1,6 @@
+baseURL: https://docs.dendromeda.com/
+languageCode: en-gb
+title: Dendromeda Documentation
+module:
+  imports:
+    - path: github.com/imfing/hextra
